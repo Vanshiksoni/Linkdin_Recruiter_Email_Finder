@@ -1,0 +1,9 @@
+.env
+
+linkedin_logs/
+.browser_profile/
+.*_browser_profile/
+__pycache__/
+*.pyc
+server.out.log
+server.err.log
